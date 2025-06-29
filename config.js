@@ -67,8 +67,8 @@ module.exports = {
 
 /**********************************************************
 * @Author:
-  Leo and CodeX Team
+  Azeem Team
 
 * @Community:
-  https://discord.gg/codexdev (CodeX Development)
+  https://discord.gg/Azeem
  *********************************************************/
