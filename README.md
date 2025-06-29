@@ -1,4 +1,4 @@
-# CodeX Music Bot
+# Azeem Music Bot
 
 **A feature-rich Discord music bot with advanced filters, playlist management, and multiple platform support.**
 
@@ -141,11 +141,11 @@ riffyOptions: {
 
 ## Support
 
-Join our Discord server for support: [discord.gg/sV5nAs4NtH](https://https//discord.gg/sV5nAs4NtH)
+Join our Discord server for support: [discord.gg/xRW5rdAvs5](https://discord.gg/xRW5rdAvs5)
 
 ## Credits
 
-Created by CodeX Development Team
+Created by [ AS ] Team
 
 ## License
 
