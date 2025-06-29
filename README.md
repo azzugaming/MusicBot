@@ -141,7 +141,7 @@ riffyOptions: {
 
 ## Support
 
-Join our Discord server for support: [discord.gg/xRW5rdAvs5](https://discord.gg/xRW5rdAvs5)
+Join our Discord server for support: [discord.gg/azeem](https://discord.gg/xRW5rdAvs5)
 
 ## Credits
 
