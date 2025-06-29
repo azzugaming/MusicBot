@@ -247,7 +247,7 @@ async function renderCanvasMainMenu(canvas, client, categories) {
     await canvas.drawBackground();
     await canvas.drawHeader(client, `${client.user.username} Help Menu`);
     canvas.drawCategories(categories);
-    canvas.drawFooter("Made with ❤️ by CodeX Development");
+    canvas.drawFooter("Made with ❤️ by Azeem");
     return canvas.getBuffer();
 }
 
